@@ -18,12 +18,12 @@ title: Знайомство
 
 24 вер
 : **ПР #2**{: .label .label-purple} **Логiстична регресiя**
-  : [[Деталі](https://ykochura.github.io/ai-labs/hw/labs2-ai.pdf)]
+  : [[Деталі](https://ykochura.github.io/ai-lab/hw/labs2-ai.pdf)]
     : **Дедлайн**:  20 листопада
 
 24 вер
 : **ПР #3**{: .label .label-purple} **Передбачення серцево-судинних захворювань**
-  : [[Деталі](https://ykochura.github.io/ai-labs/hw/labs3-ai.pdf)]
+  : [[Деталі](https://ykochura.github.io/ai-lab/hw/labs3-ai.pdf)]
     : **Дедлайн**:  20 листопада
 
 <!-- 15 жов
