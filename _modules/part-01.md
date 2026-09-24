@@ -18,7 +18,7 @@ title: Знайомство
 
 24 вер
 : **ПР #2**{: .label .label-purple} **Логiстична регресiя**
-  : [[Деталі](https://ykochura.github.io/ai-labs/hw/lab2-ai.pdf)]
+  : [[Деталі](https://ykochura.github.io/ai-labs/hw/labs2-ai.pdf)]
     : **Дедлайн**:  20 листопада
 
 24 вер
