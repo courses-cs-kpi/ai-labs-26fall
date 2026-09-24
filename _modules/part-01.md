@@ -2,9 +2,7 @@
 title: Знайомство
 ---
 
-01 вер
-: **Огляд**{: .label .label-blue}**Загальні деталі 👋**
-  : [[HML](https://ykochura.github.io/ai-lab/?p=details.md#1)][[PDF](https://ykochura.github.io/ai-lab/pdf/details.pdf)]
+24 вер
 : **Огляд**{: .label .label-red}**Словник термінів**
   : [[PDF](https://storage.thedigital.gov.ua/files/2/72/389a01ab0cc82040dfe172f94d1af720.pdf)]
 : **Огляд**{: .label .label-red}**Лінійна алгебра 🔭**
@@ -13,15 +11,20 @@ title: Знайомство
   : [[PDF](https://ykochura.github.io/ai-lab/tutor/Numpy Handbook.pdf)][.ipynb](https://colab.research.google.com/github/YKochura/cv-kpi/blob/main/tutor/ndarray.ipynb)]
 
  
-08 вер
+24 вер
 : **ПР #1**{: .label .label-purple} **Лінійна регресія**
-  : [[Деталі](https://ykochura.github.io/ai-lab/hw/lab1-ai.pdf)]  [[Огляд](https://ykochura.github.io/ai-lab/?p=linear-regression.md#1)]
-    : **Дедлайн**:  28 вересня
+  : [[Деталі](https://ykochura.github.io/ai-lab/hw/labs1-ai.pdf)]  [[Огляд](https://ykochura.github.io/ai-lab/?p=linear-regression.md#1)]
+    : **Дедлайн**:  20 листопада
 
-22 вер
+24 вер
 : **ПР #2**{: .label .label-purple} **Логiстична регресiя**
-  : [[Деталі](https://ykochura.github.io/ai-lab/hw/lab2-ai.pdf)]
-    : **Дедлайн**:  06 жовтня
+  : [[Деталі](https://ykochura.github.io/ai-labs/hw/lab2-ai.pdf)]
+    : **Дедлайн**:  20 листопада
+
+24 вер
+: **ПР #3**{: .label .label-purple} **Передбачення серцево-судинних захворювань**
+  : [[Деталі](https://ykochura.github.io/ai-labs/hw/labs3-ai.pdf)]
+    : **Дедлайн**:  20 листопада
 
 <!-- 15 жов
 : **ПР #2**{: .label .label-purple} **Логiстична регресiя**
